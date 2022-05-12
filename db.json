@@ -6,11 +6,11 @@
         "itemPic": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_4106000/ff_4106972-49460202adeec7d27a1b_full.jpg&w=600" },
         { "date": "04/04/2022", "purchaseId": 2, "purchaseAmount": 224.99, "itemName": "Kobe 5", 
         "itemPic": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/8f0ec04d-ddd2-420a-943b-3d9f4cd4c609/kobe-5-protro-bruce-lee-release-date.jpg" },
-        { "date": "05/7/2022", "purchaseId": 3, "purchaseAmount": 2.59, "itemName": "Apple", 
+        { "date": "05/07/2022", "purchaseId": 3, "purchaseAmount": 2.59, "itemName": "Apple", 
         "itemPic": "https://media.istockphoto.com/photos/red-apple-with-leaf-isolated-on-white-background-picture-id185262648?b=1&k=20&m=185262648&s=170667a&w=0&h=2ouM2rkF5oBplBmZdqs3hSOdBzA4mcGNCoF2P0KUMTM=" },
-        { "date": "03/25/2022", "purchaseId": 4, "purchaseAmount": 1.49, "itemName": "Orange", 
+        { "date": "03/08/2022", "purchaseId": 4, "purchaseAmount": 1.49, "itemName": "Orange", 
             "itemPic": "https://www.boeschbodenspies.com/wp-content/uploads/2017/08/orange.png" },
-            { "date": "03/25/2022", "purchaseId": 5, "purchaseAmount": 20.99, "itemName": "Jeans", 
+            { "date": "02/21/2022", "purchaseId": 5, "purchaseAmount": 20.99, "itemName": "Jeans", 
                 "itemPic": "https://www.nautica.com/dw/image/v2/BDCV_PRD/on/demandware.static/-/Sites-nautica-master-catalog/default/dwb4dbdbdd/images/0731516000016_RP8303_404_A.jpg?sw=600&sh=600&sm=fit" }
     ]
   }
