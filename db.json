@@ -3,7 +3,7 @@
 {
     "purchases": [
       { "date": "03/25/2022", "purchaseId": 1, "purchaseAmount": 24.99, "itemName": "Lebron T-Shirt",
-        "itemDes": "Lebron James #23 Jersey T-Shirt Mamba Edition", 
+        "itemDes": "Lebron James 23 Jersey T-Shirt Mamba Edition", 
         "itemPic": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_4106000/ff_4106972-49460202adeec7d27a1b_full.jpg&w=600" },
         { "date": "04/04/2022", "purchaseId": 2, "purchaseAmount": 224.99, "itemName": "Kobe 5",
             "itemDes": "Kobe 5 Bruce Lee Colorway ",  
